@@ -1,5 +1,8 @@
 Visit website: https://slack-clone-fa5e0.firebaseapp.com/
 
+![slack-clone](https://user-images.githubusercontent.com/72465847/152359064-2af8a16e-477c-463e-b1ce-987b2e422916.png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
